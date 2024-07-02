@@ -1,6 +1,6 @@
 import Section from "./components/Section";
 import Markdown from 'react-markdown';
-import {POSTButton} from "@/app/POSTButton";
+import {POSTButton} from "@/app/reactComponent/POSTButton";
 
 
 export default function Home() {
