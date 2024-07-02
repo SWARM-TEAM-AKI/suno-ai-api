@@ -1,0 +1,97 @@
+0
+:
+audio_url
+:
+"https://audiopipe.suno.ai/?item_id=6bdd0814-433f-43e4-9849-3f387b5dfae1"
+created_at
+:
+"2024-06-27T16:18:27.551Z"
+duration
+:
+null
+error_message
+:
+null
+gpt_description_prompt
+:
+"please make finish music because i want to sleep"
+id
+:
+"6bdd0814-433f-43e4-9849-3f387b5dfae1"
+image_url
+:
+"https://cdn1.suno.ai/image_6bdd0814-433f-43e4-9849-3f387b5dfae1.png"
+lyric
+:
+"[Verse]\nMoonlight's shining soft and true\nDreams are calling out to you\n[Verse 2]\nSunset fades the sky to blue\nClose your eyes\nFeel the clue\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew\n[Verse 3]\nStars are winking in the skies\nDrift away\nClose your eyes\n[Verse 4]\nWhispers from a night so deep\nGently guide you into sleep\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew"
+model_name
+:
+"chirp-v3.5"
+prompt
+:
+"[Verse]\nMoonlight's shining soft and true\nDreams are calling out to you\n\n[Verse 2]\nSunset fades the sky to blue\nClose your eyes\nFeel the clue\n\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew\n\n[Verse 3]\nStars are winking in the skies\nDrift away\nClose your eyes\n\n[Verse 4]\nWhispers from a night so deep\nGently guide you into sleep\n\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew"
+status
+:
+"streaming"
+tags
+:
+"calm soothing acoustic"
+title
+:
+"Goodnight Melody"
+type
+:
+"gen"
+video_url
+:
+""
+[[Prototype]]
+:
+Object
+1
+:
+audio_url
+:
+"https://audiopipe.suno.ai/?item_id=57a5dfd2-ea58-44c6-9a2c-5b99f0aa7cf2"
+created_at
+:
+"2024-06-27T16:18:27.551Z"
+duration
+:
+null
+error_message
+:
+null
+gpt_description_prompt
+:
+"please make finish music because i want to sleep"
+id
+:
+"57a5dfd2-ea58-44c6-9a2c-5b99f0aa7cf2"
+image_url
+:
+"https://cdn1.suno.ai/image_57a5dfd2-ea58-44c6-9a2c-5b99f0aa7cf2.png"
+lyric
+:
+"[Verse]\nMoonlight's shining soft and true\nDreams are calling out to you\n[Verse 2]\nSunset fades the sky to blue\nClose your eyes\nFeel the clue\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew\n[Verse 3]\nStars are winking in the skies\nDrift away\nClose your eyes\n[Verse 4]\nWhispers from a night so deep\nGently guide you into sleep\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew"
+model_name
+:
+"chirp-v3.5"
+prompt
+:
+"[Verse]\nMoonlight's shining soft and true\nDreams are calling out to you\n\n[Verse 2]\nSunset fades the sky to blue\nClose your eyes\nFeel the clue\n\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew\n\n[Verse 3]\nStars are winking in the skies\nDrift away\nClose your eyes\n\n[Verse 4]\nWhispers from a night so deep\nGently guide you into sleep\n\n[Chorus]\nGoodnight melody for you\nSleep well until the morning dew"
+status
+:
+"streaming"
+tags
+:
+"calm soothing acoustic"
+title
+:
+"Goodnight Melody"
+type
+:
+"gen"
+video_url
+:
+""
