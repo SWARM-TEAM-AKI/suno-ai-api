@@ -35,12 +35,8 @@ export function POSTButton() {
             }, {
                 withCredentials: true
             })
-            console.log({res})
             const musicId = res.data[0].id
-            console.log({musicId})
             const getMusicFromId: any[] = await axios.get(`/api/get?id=${musicId}`, {withCredentials: true}).then(res => res.data)
-            console.log({getMusicFromId})
-            console.log(Array.isArray(getMusicFromId))
             const filteredMusic = getMusicFromId.filter(music => music.audio_url !== "")
             const tempMusic: musicData[] = filteredMusic.map(elm => {
                 return {
@@ -48,7 +44,6 @@ export function POSTButton() {
                     title: elm.title
                 }
             })
-            console.log({filteredMusic})
             setMusic(tempMusic)
             setCreateFlg(false)
         } catch (error) {
@@ -113,6 +108,14 @@ export function POSTButton() {
 
             <br/>
             <button onClick={handleNoPostClick}>GETオンリー</button>
+            <br/>
+            <div>
+                <h1>バイソンの道</h1>
+                <audio controls>
+                    <source src="https://cdn1.suno.ai/169913d8-57b3-4822-86b1-91c075505c3e.mp3" type="audio/mpeg"/>
+                    バイソンの道
+                </audio>
+            </div>
             <br/>
             <VoiceChanger/>
 
