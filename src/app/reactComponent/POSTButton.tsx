@@ -120,7 +120,8 @@ export function POSTButton() {
                     <source src="https://cdn1.suno.ai/bb372f89-56f8-4540-b348-a458c9c0c65e.mp3" type="audio/mpeg"/>
                 </audio>
                 <p> I drive on the highway every morning for my commute. I'm getting tired of the unchanging scenery
-                    every day, and sometimes the traffic jams add to my stress. Create a song that will lift my spirits.</p>
+                    every day, and sometimes the traffic jams add to my stress. Create a song that will lift my
+                    spirits.</p>
                 <br/>
 
                 <h1>Highway drea, speedUp</h1>
@@ -128,7 +129,8 @@ export function POSTButton() {
                     <source src="https://cdn1.suno.ai/a0fa4d70-6e6a-41c4-8e35-e62d4d90c08b.mp3" type="audio/mpeg"/>
                 </audio>
                 <p> I drive on the highway every morning for my commute. I'm getting tired of the unchanging scenery
-                    every day, and sometimes the traffic jams add to my stress. Create a song that will lift my spirits.</p>
+                    every day, and sometimes the traffic jams add to my stress. Create a song that will lift my
+                    spirits.</p>
                 <br/>
 
                 <h1>Highway drea, rainy</h1>
@@ -136,6 +138,14 @@ export function POSTButton() {
                     <source src="https://cdn1.suno.ai/cb44e666-1694-456b-a426-026eaca860e8.mp3" type="audio/mpeg"/>
                 </audio>
                 <p>It started raining. Please change the tune to a slow ballad that suits this situation.
+                </p>
+                <br/>
+
+                <h1>Highway drea, eco-mode</h1>
+                <audio controls>
+                    <source src="https://cdn1.suno.ai/5e50ad02-1af0-4a55-b287-3089a46f26ae.mp3#t=30" type="audio/mpeg"/>
+                </audio>
+                <p>i chose economy driving mode. please change current musit to a relax one.
                 </p>
                 <br/>
 
