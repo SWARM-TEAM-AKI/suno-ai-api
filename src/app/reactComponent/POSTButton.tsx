@@ -115,6 +115,11 @@ export function POSTButton() {
                     <source src="https://cdn1.suno.ai/169913d8-57b3-4822-86b1-91c075505c3e.mp3" type="audio/mpeg"/>
                     バイソンの道
                 </audio>
+                <h1>Highway drea,</h1>
+                <audio controls>
+                    <source src="https://suno.com/song/bb372f89-56f8-4540-b348-a458c9c0c65e" type="audio/mpeg"/>
+                    I drive on the highway every morning for my commute. I'm getting tired of the unchanging scenery every day, and sometimes the traffic jams add to my stress. Create a song that will lift my spirits.
+                </audio>
             </div>
             <br/>
             <VoiceChanger/>
